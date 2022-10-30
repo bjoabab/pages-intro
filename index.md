@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+layout: page
+title: "Welcome to my blog"
 ---
 Heju svejsu!
