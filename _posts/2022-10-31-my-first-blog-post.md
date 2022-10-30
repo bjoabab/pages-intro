@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My first blog post"
 date: 2022-10-31
 ---
